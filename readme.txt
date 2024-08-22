@@ -19,3 +19,8 @@
     hipshot@zfight.com / www.zfight.com
     Downloaded from http://opengameart.org/content/interstellar-skybox
     CC-BY 3.0 (Modify however you like, just cred me for my work, maybe link to my page)
+
+"kiara_1_dawn" by Polyhaven
+
+Downloaded from https://polyhaven.com/a/kiara_1_dawn, and converted from HDRI to cubemap 
+License: CC0
